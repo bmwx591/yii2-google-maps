@@ -1,0 +1,20 @@
+ {
+    "name": "bmwx591/yii2-google-maps",
+    "description": "Google Maps",
+    "authors": [
+        {
+            "name": "Ivan Aslanov",
+            "email": "bmw_x591@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0",
+				"yiisoft/yii2": "*"
+    },
+    "autoload": {
+				"psr-4": {
+            "bmx591\\yii2-google-maps\\": ""
+        }
+    }
+}
