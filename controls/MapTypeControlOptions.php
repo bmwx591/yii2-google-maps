@@ -4,11 +4,11 @@
  * @link http://2amigos.us
  * @license http://www.opensource.org/licenses/bsd-license.php New BSD License
  */
-namespace bmx591\yii2-google-maps\controls;
+namespace bmx591\google\maps\controls;
 
-use bmx591\yii2-google-maps\MapTypeId;
-use bmx591\yii2-google-maps\ObjectAbstract;
-use bmx591\yii2-google-maps\OptionsTrait;
+use bmx591\google\maps\MapTypeId;
+use bmx591\google\maps\ObjectAbstract;
+use bmx591\google\maps\OptionsTrait;
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;
 use yii\web\JsExpression;

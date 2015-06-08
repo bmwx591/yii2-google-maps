@@ -4,7 +4,7 @@
  * @link http://2amigos.us
  * @license http://www.opensource.org/licenses/bsd-license.php New BSD License
  */
-namespace bmx591\yii2-google-maps;
+namespace bmx591\google\maps;
 
 use Yii;
 use yii\web\AssetBundle;
@@ -22,7 +22,7 @@ use yii\web\AssetBundle;
  *      'components' => [
  *          'assetManager' => [
  *              'bundles' => [
- *                  'dosamigos\google\maps\MapAsset' => [
+ *                  'bmx591\google\maps\MapAsset' => [
  *                      'options' => [
  *                          'key' => 'this_is_my_key',
  *                          'language' => 'id',
@@ -36,7 +36,7 @@ use yii\web\AssetBundle;
  * @author Antonio Ramirez <amigo.cobos@gmail.com>
  * @link http://www.ramirezcobos.com/
  * @link http://www.2amigos.us/
- * @package dosamigos\google\maps
+ * @package bmx591\google\maps
  */
 class MapAsset extends AssetBundle
 {

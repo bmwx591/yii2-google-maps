@@ -4,11 +4,11 @@
  * @link http://2amigos.us
  * @license http://www.opensource.org/licenses/bsd-license.php New BSD License
  */
-namespace bmx591\yii2-google-maps\services;
+namespace bmx591\google\maps\services;
 
 
-use bmx591\yii2-google-maps\ClientAbstract;
-use bmx591\yii2-google-maps\LatLng;
+use bmx591\google\maps\ClientAbstract;
+use bmx591\google\maps\LatLng;
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;
 use Yii;
@@ -22,7 +22,7 @@ use Yii;
  * @author Antonio Ramirez <amigo.cobos@gmail.com>
  * @link http://www.ramirezcobos.com/
  * @link http://www.2amigos.us/
- * @package bmx591\yii2-google-maps
+ * @package bmx591\google\maps
  */
 class GeocodingClient extends ClientAbstract
 {

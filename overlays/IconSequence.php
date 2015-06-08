@@ -4,12 +4,12 @@
  * @link http://2amigos.us
  * @license http://www.opensource.org/licenses/bsd-license.php New BSD License
  */
-namespace bmx591\yii2-google-maps\overlays;
+namespace bmx591\google\maps\overlays;
 
 
-use bmx591\yii2-google-maps\ObjectAbstract;
-use bmx591\yii2-google-maps\OptionsTrait;
-use bmx591\yii2-google-maps\Point;
+use bmx591\google\maps\ObjectAbstract;
+use bmx591\google\maps\OptionsTrait;
+use bmx591\google\maps\Point;
 use yii\base\InvalidConfigException;
 use yii\web\JsExpression;
 
@@ -35,7 +35,7 @@ use yii\web\JsExpression;
  * @author Antonio Ramirez <amigo.cobos@gmail.com>
  * @link http://www.ramirezcobos.com/
  * @link http://www.2amigos.us/
- * @package bmx591\yii2-google-maps
+ * @package bmx591\google\maps
  */
 class IconSequence extends ObjectAbstract
 {

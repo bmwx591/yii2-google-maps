@@ -4,10 +4,10 @@
  * @link http://2amigos.us
  * @license http://www.opensource.org/licenses/bsd-license.php New BSD License
  */
-namespace bmx591\yii2-google-maps;
+namespace bmx591\google\maps;
 
 
-use bmx591\yii2-google-maps\controls\ControlPosition;
+use bmx591\google\maps\controls\ControlPosition;
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;
 
@@ -26,7 +26,7 @@ use yii\helpers\ArrayHelper;
  * @author Antonio Ramirez <amigo.cobos@gmail.com>
  * @link http://www.ramirezcobos.com/
  * @link http://www.2amigos.us/
- * @package bmx591\yii2-google-maps
+ * @package bmx591\google\maps
  */
 class RotateControlOptions extends ObjectAbstract
 {

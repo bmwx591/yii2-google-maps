@@ -15,7 +15,7 @@
     },
     "autoload": {
 				"psr-4": {
-            "bmx591\\yii2-google-maps\\": ""
+            "bmx591\\google\\maps\\": ""
         }
     }
 }

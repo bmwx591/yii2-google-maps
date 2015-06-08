@@ -4,7 +4,7 @@
  * @link http://2amigos.us
  * @license http://www.opensource.org/licenses/bsd-license.php New BSD License
  */
-namespacebmx591\yii2-google-maps\overlays;
+namespacebmx591\google\maps\overlays;
 
 
 /**
@@ -15,7 +15,7 @@ namespacebmx591\yii2-google-maps\overlays;
  * @author Antonio Ramirez <amigo.cobos@gmail.com>
  * @link http://www.ramirezcobos.com/
  * @link http://www.2amigos.us/
- * @packagebmx591\yii2-google-maps\overlays
+ * @packagebmx591\google\maps\overlays
  */
 class StrokePosition
 {
