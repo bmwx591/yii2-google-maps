@@ -4,7 +4,7 @@
  * @link http://2amigos.us
  * @license http://www.opensource.org/licenses/bsd-license.php New BSD License
  */
-namespace bbmx591\google\maps;
+namespace bmx591\google\maps;
 
 /**
  * EventType
