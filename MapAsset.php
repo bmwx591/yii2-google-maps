@@ -22,7 +22,7 @@ use yii\web\AssetBundle;
  *      'components' => [
  *          'assetManager' => [
  *              'bundles' => [
- *                  'bmx591\google\maps\MapAsset' => [
+ *                  'bmwx591\google\maps\MapAsset' => [
  *                      'options' => [
  *                          'key' => 'this_is_my_key',
  *                          'language' => 'id',
@@ -36,7 +36,7 @@ use yii\web\AssetBundle;
  * @author Antonio Ramirez <amigo.cobos@gmail.com>
  * @link http://www.ramirezcobos.com/
  * @link http://www.2amigos.us/
- * @package bmx591\google\maps
+ * @package bmwx591\google\maps
  */
 class MapAsset extends AssetBundle
 {

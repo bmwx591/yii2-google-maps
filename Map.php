@@ -4,9 +4,9 @@
  * @link http://2amigos.us
  * @license http://www.opensource.org/licenses/bsd-license.php New BSD License
  */
-namespace bmx591\google\maps;
+namespace bmwx591\google\maps;
 
-use bmx591\google\maps\overlays\Marker;
+use bmwx591\google\maps\overlays\Marker;
 use Yii;
 use yii\base\InvalidConfigException;
 use yii\helpers\Html;
@@ -80,7 +80,7 @@ use yii\helpers\ArrayHelper;
  * @author Antonio Ramirez <amigo.cobos@gmail.com>
  * @link http://www.ramirezcobos.com/
  * @link http://www.2amigos.us/
- * @package bmx591\google\maps
+ * @package bmwx591\google\maps
  */
 class Map extends ObjectAbstract
 {
@@ -419,7 +419,7 @@ class Map extends ObjectAbstract
         }
 
         foreach ($this->getPlugins()->getInstalledPlugins() as $plugin) {
-            /** @var \bmx591\google\maps\PluginAbstract $plugin */
+            /** @var \bmwx591\google\maps\PluginAbstract $plugin */
             $plugin->map = $this->getName();
             $js[] = $plugin->getJs($name);
         }

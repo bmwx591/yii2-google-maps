@@ -4,10 +4,10 @@
  * @link http://2amigos.us
  * @license http://www.opensource.org/licenses/bsd-license.php New BSD License
  */
-namespace bmx591\google\maps;
+namespace bmwx591\google\maps;
 
-use bmx591\google\maps\overlays\InfoWindow;
-use bmx591\google\maps\overlays\Marker;
+use bmwx591\google\maps\overlays\InfoWindow;
+use bmwx591\google\maps\overlays\Marker;
 use yii\helpers\ArrayHelper;
 use yii\web\JsExpression;
 
@@ -19,7 +19,7 @@ use yii\web\JsExpression;
  * @author Antonio Ramirez <amigo.cobos@gmail.com>
  * @link http://www.ramirezcobos.com/
  * @link http://www.2amigos.us/
- * @package bmx591\google\maps
+ * @package bmwx591\google\maps
  */
 trait OverlayTrait
 {

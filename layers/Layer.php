@@ -4,10 +4,10 @@
  * @link http://2amigos.us
  * @license http://www.opensource.org/licenses/bsd-license.php New BSD License
  */
-namespace bmx591\google\maps\layers;
+namespace bmwx591\google\maps\layers;
 
 
-use bmx591\google\maps\ObjectAbstract;
+use bmwx591\google\maps\ObjectAbstract;
 use yii\base\InvalidConfigException;
 
 /**
@@ -18,7 +18,7 @@ use yii\base\InvalidConfigException;
  * @author Antonio Ramirez <amigo.cobos@gmail.com>
  * @link http://www.ramirezcobos.com/
  * @link http://www.2amigos.us/
- * @package bmx591\google\maps\layers
+ * @package bmwx591\google\maps\layers
  */
 class Layer extends ObjectAbstract
 {

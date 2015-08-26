@@ -4,12 +4,12 @@
  * @link http://2amigos.us
  * @license http://www.opensource.org/licenses/bsd-license.php New BSD License
  */
-namespace bmx591\google\maps\services;
+namespace bmwx591\google\maps\services;
 
-use bmx591\google\maps\controls\PanControlOptions;
-use bmx591\google\maps\LatLng;
-use bmx591\google\maps\ObjectAbstract;
-use bmx591\google\maps\OptionsTrait;
+use bmwx591\google\maps\controls\PanControlOptions;
+use bmwx591\google\maps\LatLng;
+use bmwx591\google\maps\ObjectAbstract;
+use bmwx591\google\maps\OptionsTrait;
 use yii\helpers\ArrayHelper;
 
 /**
@@ -40,7 +40,7 @@ use yii\helpers\ArrayHelper;
  * @author Antonio Ramirez <amigo.cobos@gmail.com>
  * @link http://www.ramirezcobos.com/
  * @link http://www.2amigos.us/
- * @package bmx591\google\maps\services
+ * @package bmwx591\google\maps\services
  */
 class StreetViewPanoramaOptions extends ObjectAbstract
 {

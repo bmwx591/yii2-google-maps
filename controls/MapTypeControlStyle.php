@@ -4,7 +4,7 @@
  * @link http://2amigos.us
  * @license http://www.opensource.org/licenses/bsd-license.php New BSD License
  */
-namespace bmx591\google\maps\controls;
+namespace bmwx591\google\maps\controls;
 
 
 /**
@@ -16,9 +16,9 @@ namespace bmx591\google\maps\controls;
  * [documentation](https://developers.google.com/maps/documentation/javascript/reference#MapTypeControlStyle) at Google.
  *
  * ```
- * use bmx591\google\maps\controls\MapTypeControlOptions;
- * use bmx591\google\maps\controls\MapTypeControlStyle;
- * use bmx591\google\maps\Map;
+ * use bmwx591\google\maps\controls\MapTypeControlOptions;
+ * use bmwx591\google\maps\controls\MapTypeControlStyle;
+ * use bmwx591\google\maps\Map;
  *
  * $options = new MapTypeControlOptions(['style' => MapTypeControlStyle::DROPDOWN_MENU]);
  *
@@ -28,7 +28,7 @@ namespace bmx591\google\maps\controls;
  * @author Antonio Ramirez <amigo.cobos@gmail.com>
  * @link http://www.ramirezcobos.com/
  * @link http://www.2amigos.us/
- * @package bmx591\google\maps\controls
+ * @package bmwx591\google\maps\controls
  */
 class MapTypeControlStyle
 {
