@@ -4,7 +4,7 @@
  * @link http://2amigos.us
  * @license http://www.opensource.org/licenses/bsd-license.php New BSD License
  */
-namespace bmx591\yii2-google-maps\services;
+namespace bmx591\google\maps\services;
 
 use bmx591\yii2-google-maps\ObjectAbstract;
 use yii\helpers\ArrayHelper;
